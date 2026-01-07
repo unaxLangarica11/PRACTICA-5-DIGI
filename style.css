@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    color: aqua;
+    size: 34px;
+}
+
+img{
+
+    width: 60%;
+    height: auto;
+    border-color: blue;
+    border-width: 7px;
+}
